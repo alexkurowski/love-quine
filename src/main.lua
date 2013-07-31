@@ -1,0 +1,2 @@
+data = 'function love.draw() love.graphics.print("data = "..string.char(39)..data..string.char(39,10)..data.." end",0,0)'
+function love.draw() love.graphics.print("data = "..string.char(39)..data..string.char(39,10)..data.." end",0,0) end
