@@ -1,7 +1,7 @@
 love-quine
 ==========
 
-Two lines lua script that will print itself with the help of love!
+Two line lua script that will print itself with the help of love!
 
 
 Usage
